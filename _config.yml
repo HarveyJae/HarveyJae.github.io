@@ -21,7 +21,7 @@ repository               : "Nolan-Jon /Nolan-Jon.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.jpg"
+  avatar           : "profile.png"
   name             : "Hengyang Jiang"
   pronouns         : # example: "she/her"  
   bio              : "Teaching assistant, Sanya Aviation and Tourism College"
