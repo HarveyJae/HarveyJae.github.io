@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "Academic Pages"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 # Short Bio
 Hengyang Jiang is a 2024 undergraduate graduate of [Central China Normal University](https://www.ccnu.edu.cn/) and is currently employed by the Mechanical Engineering College of [Sanya Aviation and Tourism College](https://www.hnasatc.edu.cn/).
 # Researh
